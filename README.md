@@ -9,8 +9,6 @@ This web-based tool allows for multi-criteria selections helping identifying pri
 The CEAP can be of interest to both institutional and private stakeholders in the energy sector, i.e. policymakers, international donors, governments, and philanthropic investors.
 
 
-![CEAP Overall schema](/images/image10.png)
-
 ## CEAP variables
 
 (This list is updated on a regular basis, as soon as a new variable is available on the tool)
